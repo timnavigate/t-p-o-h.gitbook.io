@@ -1,3 +1,3 @@
 # Table of contents
 
-* [tpoh-docs](README.md)
+* [wtf-tpoh-docs](README.md)
