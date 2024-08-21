@@ -1,11 +1,11 @@
-## plan
-
-* [x] test of [content] hosting
-* [x] test of [github] → [gitbook] integration
-* [x] test of display [content] after [changes]
-* [x] test of [gitbook] → [github] integration
-* [x] repeat: test of [github] → [gitbook] integration
-* [x] test of display `summary` → `readme` hierarchy
+# empty
+## checklist:
+* [x] test of [content] hosting :white_check_mark:
+* [x] test of [github] → [gitbook] integration :white_check_mark:
+* [x] test of display [content] after [changes] :white_check_mark:
+* [x] test of [gitbook] → [github] integration :white_check_mark:
+* [x] repeat: test of [github] → [gitbook] integration :white_check_mark:
+* [x] test of display `summary` → `readme` hierarchy :white_check_mark:
 * [ ] ...
       
 [changes]:https://t-p-o-h.gitbook.io/tpoh-docs
