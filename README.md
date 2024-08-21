@@ -1,5 +1,5 @@
 # empty
-## checklist:
+## checklist
 * [x] test of [content] hosting :white_check_mark:
 * [x] test of [github] → [gitbook] integration :white_check_mark:
 * [x] test of display [content] after [changes] :white_check_mark:
