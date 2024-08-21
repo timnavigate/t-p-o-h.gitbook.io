@@ -1,7 +1,13 @@
 # plan
 
-* [x] test of hosting docs on [gitbook.io](https://t-p-o-h.gitbook.io/tpoh-docs)
-* [x] test of integration [github.com](https://github.com/timnavigate/tpoh-docs) to gitbook
-* [x] test of display changes after [mergereguest](./)
-* [x] test of integration gitbook to github
+* [x] test of [content] hosting
+* [x] test of [github] → [gitbook] integration
+* [x] test of display [content] after [changes]
+* [x] test of [gitbook] → [github] integration
+* [x] repeat: test of [github] → [gitbook] integration
 * [ ] ...
+
+[changes]:https://t-p-o-h.gitbook.io/tpoh-docs
+[commit]:https://github.com/timnavigate/t-p-o-h.gitbook.io/commit/671a3ff17deea7dd708c97c79c0a41e1cf5429b0
+[gitbook]:https://t-p-o-h.gitbook.io/
+[github]:https://github.com/timnavigate/t-p-o-h.gitbook.io
